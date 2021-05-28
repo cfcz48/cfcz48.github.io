@@ -21,12 +21,16 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-3. [DCT 3.0 PSC 设计](dct3psc.md)
+3. [DCT30PSC设计](https://d/dct3psc.md)
+
+
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
+
+[DCT3.0 PSC设计](dct3psc)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
